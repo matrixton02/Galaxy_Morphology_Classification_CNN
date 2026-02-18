@@ -123,7 +123,11 @@ Most parameters are in the MLP layer, while convolution layers remain lightweigh
 - Train on full 29k dataset
 
 ---
+## 📂 Files
 
+- CNN_mod->contains the CNN forward propagation backward propagationa and all other related fucntions inclusing training and testiing fucntions
+- mlp->contains the code for the mlp which is also one of my custom made proejct it contaisn its own forward and backward propagaion and training fucntions
+- data_load->Contains code to randomly select data from dataset and provide the training and testing set
 ## 📂 How to Run
 
 1. Install dependencies:
@@ -151,7 +155,7 @@ How architecture design affects generalization
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/615c4585-0bad-441f-b7ca-0ce9a35d552e" />
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/1ed45865-3d6f-4d32-aeb9-acceefd266d4" />
 
-## Contact Me
+## 📞 Contact Me
 Email:yashasvi21022005@gmail.com
 
 Linkedin:https://www.linkedin.com/in/yashasvi-kumar-tiwari/
